@@ -1,0 +1,10 @@
+{
+  "name": "rnix-parser",
+  "version": "0.10.1",
+  "description": "A Nix parser written in Rust",
+  "main": "rnix.js",
+  "repository": "https://github.com/nix-community/rnix-parser",
+  "author": "Yvan Sraka <yvan@sraka.xyz>, jD91mZM2 <me@krake.one>",
+  "license": "MIT",
+  "private": false
+}
